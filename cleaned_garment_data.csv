@@ -1,0 +1,11 @@
+Item,Category,Brand_Style,Price_INR,Stock_Qty,Sales_Last_Month
+101,Saree,Banarasi Silk,5500.0,45.0,19
+102,Saree,Kanchipuram,9001.0,23.0,15
+103,Kids,Kurta Pajama,1400.0,70.0,33
+104,Kids,Kurta Pajama,1500.0,0.0,25
+105,Formal Pant,Van Heusen,1890.0,60.0,40
+106,Formal Pant,Allen Solly,1940.0,50.0,20
+107,Formal Pant,Allen Solly,1990.0,0.0,29
+108,Shirt,Puma,2500.0,70.0,45
+109,Shirt,Nike,2500.0,15.0,28
+110,Blazer,Van Heusen,3135.6666666666665,2.0,30
