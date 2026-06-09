@@ -1,6 +1,6 @@
 import pandas as pd
 
-print("डेटा लोड हो रहा है...")
+print("Data are loading...")
 df = pd.read_csv('garment_data.csv.csv')
 
 
